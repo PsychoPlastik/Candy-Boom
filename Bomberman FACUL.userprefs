@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Bomberman FACUL.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\fogo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bomb.cs" Line="29" Column="3" />
+      <File FileName="Assets\Scripts\fogo.cs" Line="39" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomberman FACUL", "Bomberman FACUL.csproj", "{1FFF1DB2-5A4F-C76D-8696-029F86CCA552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomberman FACUL.Plugins", "Bomberman FACUL.Plugins.csproj", "{EA2B2D1C-5564-1C94-A855-D7135FB9D8D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomberman FACUL.Editor.Plugins", "Bomberman FACUL.Editor.Plugins.csproj", "{A07C3C03-40A4-932F-A423-D22653EB9129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFF1DB2-5A4F-C76D-8696-029F86CCA552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFF1DB2-5A4F-C76D-8696-029F86CCA552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFF1DB2-5A4F-C76D-8696-029F86CCA552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFF1DB2-5A4F-C76D-8696-029F86CCA552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2B2D1C-5564-1C94-A855-D7135FB9D8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2B2D1C-5564-1C94-A855-D7135FB9D8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2B2D1C-5564-1C94-A855-D7135FB9D8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2B2D1C-5564-1C94-A855-D7135FB9D8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07C3C03-40A4-932F-A423-D22653EB9129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07C3C03-40A4-932F-A423-D22653EB9129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07C3C03-40A4-932F-A423-D22653EB9129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07C3C03-40A4-932F-A423-D22653EB9129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
